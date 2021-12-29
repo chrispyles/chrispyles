@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+My name is Chris Pyles and I'm a software engineer, focusing on web development and ed-tech. I'm from California and currently work at IXL Learning. You can find out more about me on [my website](https://chrispyles.io/) or on [LinkedIn](https://linkedin.com/in/chris-pyles).
+
+#### 📈 GitHub Stats
+
+<a href="https://github.com/chrispyles/chrispyles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrispyles&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+<a href="https://github.com/chrispyles/chrispyles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrispyles&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
 <!--
 **chrispyles/chrispyles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
