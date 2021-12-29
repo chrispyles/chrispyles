@@ -5,7 +5,7 @@ My name is Chris Pyles and I'm a software engineer, focusing on web development 
 #### Skills
 
 ![OS: Mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
-![Editor: VSCode](https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![Editor: VSCode](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
 #### 📈 GitHub Stats
 
