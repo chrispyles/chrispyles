@@ -5,7 +5,7 @@ My name is Chris Pyles and I'm a software engineer, focusing on web development 
 #### 📈 GitHub Stats
 
 <a href="https://github.com/chrispyles/chrispyles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrispyles&hide=java,html,tex,ipynb&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrispyles&hide=java,html,tex,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/chrispyles/chrispyles">
