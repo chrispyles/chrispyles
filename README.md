@@ -2,6 +2,10 @@
 
 My name is Chris Pyles and I'm a software engineer, focusing on web development and ed-tech. I'm from California and currently work at IXL Learning. You can find out more about me on [my website](https://chrispyles.io/) or on [LinkedIn](https://linkedin.com/in/chris-pyles).
 
+#### Skills
+
+![OS: Mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=macOS&logoColor=white&color=2bbc8a)
+
 #### 📈 GitHub Stats
 
 <a href="https://github.com/chrispyles/chrispyles">
