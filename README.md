@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Chris Pyles and I'm a software engineer, focusing on web development and ed-tech. I'm from California and currently work at IXL Learning. You can find out more about me on [my website](https://chrispyles.io/) or on [LinkedIn](https://linkedin.com/in/chris-pyles).
+My name is Chris Pyles and I'm a software engineer, focusing on web development and ed-tech. I'm from California and currently work at Google. You can find out more about me on [my website](https://chrispyles.io/) or on [LinkedIn](https://linkedin.com/in/chris-pyles).
 
 #### ⚙️ Skills
 
